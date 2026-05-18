@@ -8,4 +8,4 @@ Kuhn–Tucker (KKT) optimality conditions, thereby providing a continuous-time c
 to recent discrete-time algorithms. By constructing a Lyapunov function and invoking LaSalle’s
 invariance principle, we rigorously prove global asymptotic convergence. Numerical simulation
 verifies the effectiveness of the proposed approach.
-> **On the term "distributed":** In contrast to the notion of distributed computing, "distributed" here denotes a fully decentralized architecture without a central coordinator, as commonly considered in control systems and multi-agent optimization.
+> **On the term "distributed":** In contrast to the notion of distributed computing, "distributed" here denotes a fully decentralized architecture without a central coordinator, as commonly considered in control systems.
